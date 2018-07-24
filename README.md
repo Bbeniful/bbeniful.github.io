@@ -29,4 +29,6 @@ module.exports = {
 
 ### License
 
+Created by Bbeniful for try github.io usage.
+
 MIT
